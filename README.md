@@ -1,18 +1,13 @@
-## Getting Started
+### Question 1
+PayMoney. processes thousands of transactions daily amounting to crores of Rupees. They
+also have a daily target that they must achieve. Given a list of transactions done by
+PayMoney and a daily target, your task is to determine at which transaction PayMoney
+achieves the same. If the target is not achievable, then display the target is not achieved.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Question 2
+You are a traveler and traveling to a country where the currency denominations are
+unknown and as you travel, you get to know about the denomination in random order.
+You want to make a payment of amount x, in such a way that the number of notes you give
+is minimum.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+//Assume that the denominations are in such a way that any amount can be paid.
